@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Gagana Ananda
+
 
 <!--
-**Gagana1312/Gagana1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+A dedicated MSCS student at Northeastern University, Boston.
+- 🔭 I’m currently working on building AI models
+- 🌱 I’m currently learning learning DevOps.
+- 💬 Ask me about building a Mobile Application on Android or iOS
+- 📫 How to reach me: ananda.g@northeastern.edu
+- 😄 Pronouns: She, her
+- ⚡ Fun fact: I've mastered not just coding, but designing that intuitively connects with users on a human level.
 -->
+
+Connect with me:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/gagana-ananda-76723520b/
+))&nbsp;
