@@ -21,4 +21,4 @@ A dedicated MSCS student at Northeastern University, Boston.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gagana1312&show_icons=true&locale=en&layout=compact" alt="gagana1312" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagana1312&" alt="gagana1312" /></p>
+
