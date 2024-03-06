@@ -5,7 +5,7 @@ A dedicated MSCS student at Northeastern University, Boston.
 - 🌱 I’m currently learning DevOps.
 - 💬 Ask me about building a Mobile Application on Android or iOS
 - 📫 How to reach me: ananda.g@northeastern.edu
-- 📄 Know about my experiences: [https://shorturl.at/axJXY](https://shorturl.at/axJXY)
+- 📄 Know about my experiences: [https://drive.google.com/drive/u/2/my-drive](https://drive.google.com/drive/u/2/my-drive)
 - 😄 Pronouns: She, her
 - ⚡ Fun fact: I've mastered not just coding, but designing that intuitively connects with users on a human level.
 
