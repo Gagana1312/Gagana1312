@@ -64,8 +64,8 @@ Hi there 👋, I'm Gagana Ananda<br>A dedicated MSCS student at Northeastern Uni
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gagana1312&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Gagana1312&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
