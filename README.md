@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there 👋, I'm Gagana Ananda<br>A dedicated MSCS student at Northeastern University, Boston.<br><br>🔭 I’m currently working on ReactNative Mobile Apps and building AI/ML models.<br>🌱 I’m currently learning AWS Cloud Computing.<br>💬 Ask me about building a Mobile Application on Android or iOS<br>📫 How to reach me: ananda.g@northeastern.edu<br>📄 Know about my experiences: https://drive.google.com/file/d/1CExRF-K-N1BoblA2l25NyjJngCxS8J_u/view?usp=sharing<br>😄 Pronouns: She, her<br>⚡ Fun fact: I've mastered not just coding, but designing that intuitively connects with users on a human level.<br>
+Hi there 👋, I'm Gagana Ananda<br>A dedicated MSCS student at Northeastern University, Boston.<br><br>🔭 I’m working on AWS Cloud computing and building AI/ML models.<br>🌱 I’m currently learning AWS Cloud Computing.<br>💬 Ask me about creating a Mobile Application on Android or iOS<br>📫 How to reach me: ananda.g@northeastern.edu<br>📄 Know about my experiences: https://drive.google.com/file/d/1G5BJGPCTxzR3s0mOr-RLm2wtFW6P33w7/view?usp=sharingg<br>😄 Pronouns: She, her<br>⚡ Fun fact: I've mastered not just coding, but designing that intuitively connects with users on a human level.<br>
 
 
 ## 🌐 Socials:
